@@ -1,0 +1,11 @@
+DOMAIN = "zkteco_c3"
+
+CONF_DOOR_NAMES = "door_names"
+CONF_OPEN_DURATION = "open_duration"
+CONF_DOOR_COUNT = "door_count"
+
+DEFAULT_PORT = 4370
+DEFAULT_OPEN_DURATION = 5
+DEFAULT_DOOR_COUNT = 4
+
+PLATFORMS = ["lock"]
